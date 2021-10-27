@@ -33,5 +33,5 @@ contract C is B {
 // ----
 // test() -> 77
 // gas irOptimized: 121699
-// gas legacy: 155221
+// gas legacy: 155093
 // gas legacyOptimized: 111678
